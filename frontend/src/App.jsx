@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import PostBlog from "./components/PostBlog/PostBlog";
 
 export const config = {
-  endpoint: "http://localhost:2000",
+  endpoint: "https://blogging-platform-application.onrender.com/",
 };
 
 function App() {
