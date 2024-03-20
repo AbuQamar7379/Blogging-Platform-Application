@@ -1,8 +1,7 @@
 .login_body {
   /* fallback for old browsers */
   background: #6a11cb;
-  height: 100%;
-  padding-bottom: 20px;
+  height: 100vh;
   /* Chrome 10-25, Safari 5.1-6 */
   background: -webkit-linear-gradient(
     to right,
